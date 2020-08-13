@@ -25,6 +25,10 @@ section {
     border-radius: 50%;
     overflow: hidden;
   }
+
+  #separator{
+    height: 40px;
+  }
   
 
   

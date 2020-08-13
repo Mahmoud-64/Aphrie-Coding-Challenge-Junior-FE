@@ -24,7 +24,7 @@ section{
 .header h3 {
   margin-top: 30px;
     font-size: 40px;
-    color: #346896;
+    color: #000;
     text-align: center;
     padding-bottom: 50px;
   }
@@ -43,4 +43,6 @@ section{
     background: #0761c2;
     cursor: pointer;
   }
-  
+  #separator{
+    height: 40px;
+  }
